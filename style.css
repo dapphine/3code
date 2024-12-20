@@ -13,7 +13,7 @@ header {
   color: rgb(142, 4, 248);
   text-align: center;
   text-size-adjust: bold;
-  padding: 20px;
+  padding: 25px;
   background-image: images/image1.png;
 }
 
@@ -55,7 +55,7 @@ aside {
 }
 
 #films .sold-out {
-  color: red;
+  color: blue;
   text-decoration: line-through;
 }
 
